@@ -1,6 +1,6 @@
 # my-v
 
-> 在线访问 https://xiaojiangk.github.io/vue-demo9/dist/#/
+> 在线访问 https://xiaojiangk.github.io/vue-demo9/dist/index.html#/
 
 ## Build Setup
 
